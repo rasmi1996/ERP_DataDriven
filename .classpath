@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-examples-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-javadoc-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-ooxml-full-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/selenium-server-4.18.0.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/freemarker_2323jar_lyst1724128505355.jar"/>
+	<classpathentry kind="lib" path="D:/SureshSelenium/ProjectWS/Lib/extentreports_2412jar_lyst1724128505355.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
